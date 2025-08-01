@@ -1,3 +1,6 @@
+## 🐍 GitHub Snake
+
+![snake gif](https://github.com/MustafaBks026/MustafaBks026/blob/output/github-contribution-grid-snake.svg)
 
 [![MasterHead](https://www.google.com/search?q=programlama+dilleri+4k&udm=2&sxsrf=AE3TifPQbX23n5rFJQfa-EB856i3yeawXA%3A1754050017485#vhid=2xzNAPdD5bQF6M&vssid=mosaic)
 
